@@ -1,0 +1,7 @@
+openai-agents
+moviepy
+ffmpeg-python
+pydantic
+python-dotenv
+rich
+yt-dlp
