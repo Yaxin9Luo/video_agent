@@ -28,6 +28,10 @@ The system uses a multi-agent approach with the following specialized agents:
 
 ```bash
 pip install -r requirements.txt
+
+Important "install ffmpeg separately"
+
+brew install ffmpeg
 ```
 
 3. Set your OpenAI API key:
